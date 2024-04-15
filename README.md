@@ -2,13 +2,13 @@
 
   # How can I ensure that my code, program, or software is functional and secure?
   You be sure that your code is secure by utilizing software testing techniques. Some of these techniques like:
-      -Manual Testing
-      -Unit Testing
-      -Integration Testing
-      -Regression Testing
-      -Performance Testing
-      -Security Testing
-    These tests allow us to test our system under certain paramaters. This ensures that the system has proper functionality, is secure and meets performance requirments.
+    -Manual Testing
+    -Unit Testing
+    -Integration Testing
+    -Regression Testing
+    -Performance Testing
+    -Security Testing
+  These tests allow us to test our system under certain paramaters. This ensures that the system has proper functionality, is secure and meets performance requirments.
   
   # How do I interpret user needs and incorporate them into a program?
   You can interpret the users needs through many different ways.

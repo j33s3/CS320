@@ -2,7 +2,7 @@
 
   # How can I ensure that my code, program, or software is functional and secure?
   You be sure that your code is secure by utilizing software testing techniques. Some of these techniques like:
-     - Manual Testing
+    - Manual Testing
      - Unit Testing
      - Integration Testing
      - Regression Testing
